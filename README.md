@@ -21,4 +21,4 @@ This will give you a command to check. You could put it on a timer or something.
   - Add another row, and put featureLevel and myfeaturelevel in the boxes
   
 5. Add a Chat action, as a whisper to streamer
-  - "Featured: $amifeatured ($myfeaturelevel)
+  - Featured: $amifeatured ($myfeaturelevel)
